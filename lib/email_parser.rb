@@ -17,3 +17,5 @@ class EmailAddressParser
     split_emails = remove_commas.split(" ")
     split_emails.uniq
   end
+
+end
